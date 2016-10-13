@@ -1,1 +1,4 @@
 # project1
+
+Nome: Gabriel Pimenta
+Email: gambouadev@gmail.com
